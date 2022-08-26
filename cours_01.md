@@ -1,12 +1,5 @@
-# Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
+J'ai choisi **TIM** pour quelques raisons.
+* La première est que j'ai dessiné la majorité de mon enfance. C'est mon seul vrai talent. Toutes les autres comtétences que j'ai ont été acquises grâce au travail fort, alors que l'art m'a toujours été facile.
+* Ma deuxième raison est que la monde avance vers la technologie plus en plus et je veux traduire ma compétence artistique traditionels, vers un compétence en art numérique aussi. La principale raison de ce désir est le fait que la transition vers l'art numérique ouvrira de nombreuses autres opportunités financières, encore plus que si je restais en tant qu'artiste traditionnel seulement. Le programme **TIM** va être un bon façon d'apprendre, d'améliorer et d'avancer dans mon métier.
 
-## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
-
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
-
-
+Merci à mon ami Vik pour m'avoir donné un direction 🙂
