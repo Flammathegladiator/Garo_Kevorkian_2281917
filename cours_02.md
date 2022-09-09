@@ -7,7 +7,7 @@ Exemple:
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
 ### [Aleovr](https://aleovr.com/)
-Expliquer pourquoi vous avez choisi ce lien. 
+Aleo VR est un outil pédagogique sous forme d’expériences de réalité virtuelle qui vise à favoriser le développement des enfants d’âge scolaire ayant un trouble d’apprentissage.
 
 ### [Processing](https://processing.org/)
 Expliquer pourquoi vous avez choisi ce lien.
@@ -19,5 +19,5 @@ Expliquer pourquoi vous avez choisi ce lien.
 Expliquer pourquoi vous avez choisi ce lien. 
 
 ### [AURA](https://www.aurabasiliquemontreal.com/fr/experience)
-Expliquer pourquoi vous avez choisi ce lien. 
+J'ai choisi AURA...Église
 
