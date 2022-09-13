@@ -19,5 +19,5 @@ Expliquer pourquoi vous avez choisi ce lien.
 Expliquer pourquoi vous avez choisi ce lien. 
 
 ### [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
-90s
+GTA San Andreas est un jeu vidéo qui a été l'un des premiers titres à populariser un format de monde ouvert. Sa grande carte de jeu a donné plus de liberté aux joueurs, leur permettant d'explorer davantage leur créativité. J'aime la direction artistique que les développeurs ont prise, imitant ce que ressentaient les années 90 et essayant de reproduire cette expérience autant que possible. Ce style de développement m'aide beaucoup plus à penser à simuler une expérience lors de la mise en place de quelque chose.
 
