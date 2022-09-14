@@ -6,14 +6,14 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Aleovr](https://aleovr.com/)
-Aleo VR est un outil pédagogique sous forme d’expériences de réalité virtuelle qui vise à favoriser le développement des enfants d’âge scolaire ayant un trouble d’apprentissage.
+### [Minecraft](https://aleovr.com/)
+Minecraft est l'un des jeux les plus populaires à avoir jamais existé et beaucoup de cela a à voir avec son style artistique. La simplicité de ses graphismes et la liberté absolue que le jeu offre le rendent attrayant pour les masses. Son style simple plaît à la fois aux consommateurs inconditionnels et aux occasionnels et cela a beaucoup à voir avec la liberté de création dont disposent les gens dans le jeu.
 
 ### [Half-Life 2 VR](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)
-Expliquer pourquoi vous avez choisi ce lien.
+la version réalité virtuelle du jeu Half-life a fait passer l'immersion au niveau supérieur. L'immersion est l'un des éléments les plus cruciaux pour améliorer l'expérience de toute forme de média, un aspect sur lequel se concentrent de nombreux jeux d'horreur. Half-life est un excellent exemple à suivre lorsqu'il s'agit de créer un jeu immersif en utilisant les stratégies utilisées par ses développeurs.
 
 ###  [Super hot](https://store.steampowered.com/app/322500/SUPERHOT/) 
-Expliquer pourquoi vous avez choisi ce lien.  
+Super hot est un autre jeu qui met l'accent sur l'immersion, notamment avec sa version en réalité virtuelle. Le jeu utilise le concept de vitesse pour inciter le joueur à s'impliquer davantage. L'accent est mis sur le contrôle du rythme et l'action dans le jeu, ajoutant un aspect supplémentaire auquel le joueur doit penser lorsqu'il joue.
 
 ### [Nescafe - DOOH](https://www.youtube.com/watch?v=d8BflpjcPe4)
 Expliquer pourquoi vous avez choisi ce lien. 
