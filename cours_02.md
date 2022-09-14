@@ -16,7 +16,7 @@ la version réalité virtuelle du jeu Half-life a fait passer l'immersion au niv
 Super hot est un autre jeu qui met l'accent sur l'immersion, notamment avec sa version en réalité virtuelle. Le jeu utilise le concept de vitesse pour inciter le joueur à s'impliquer davantage. L'accent est mis sur le contrôle du rythme et l'action dans le jeu, ajoutant un aspect supplémentaire auquel le joueur doit penser lorsqu'il joue.
 
 ### [Nescafe - DOOH](https://www.youtube.com/watch?v=d8BflpjcPe4)
-Expliquer pourquoi vous avez choisi ce lien. 
+Nescafe's DOOH est un jeu interactif qui a été mis en place à shanghai. L'ajout de cette nouvelle tournure à un distributeur automatique servant du café était le moyen idéal pour capter l'attention des passants. La meilleure façon de retenir quelqu'un est de l'impliquer dans l'expérience.
 
 ### [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
 GTA San Andreas est un jeu vidéo qui a été l'un des premiers titres à populariser un format de monde ouvert. Sa grande carte de jeu a donné plus de liberté aux joueurs, leur permettant d'explorer davantage leur créativité. J'aime la direction artistique que les développeurs ont prise, imitant ce que ressentaient les années 90 et essayant de reproduire cette expérience autant que possible. Ce style de développement m'aide beaucoup plus à penser à simuler une expérience lors de la mise en place de quelque chose.
