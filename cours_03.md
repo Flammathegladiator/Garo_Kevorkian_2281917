@@ -49,4 +49,4 @@ Dans cinq ans, je serai déçu si je n'ai même pas atteint les six chiffres par
 Mis à part l'argent, je m'attends à avoir concouru beaucoup plus. Je ne pense pas que je deviendrai professionnel dans cinc ans, mais j'aurais eu un nombre décent de combats, c'est sûr.
 
 ### Projets
-Il y a quelques projets médiatiques dans lesquels j'aimerais m'impliquer. Il y a une entreprise de médias sur laquelle je travaille et elle est impliquée dans le monde des sports de combat.
+Il y a quelques projets médiatiques dans lesquels j'aimerais m'impliquer. Il y a une entreprise de médias sur laquelle je travaille et elle est impliquée dans le monde des sports de combat. Le UFC est une qui va etre bon a travailler avec.
